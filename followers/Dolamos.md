@@ -1,4 +1,4 @@
-![Profile Picture](Dolamos_Image.png)
+![Profile Picture](Image/Dolamos_Image.png)
 #  ✋🔥  ***Hello, I'm Kerby Dolamos!*** (***@Shinkrbs***)
 ## 📝 About Me  
 👨‍🎓 I'm a **Bachelor of Science in Computer Science** 2nd year student from Visayas State University with a passion for **cybersecurity, and data science**. I enjoy solving problems, learning new technologies, and practicing hacking.
