@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding, business ventures, an
 
 ## 🚀 About Me
 - 💼 From Ormoc City, Leyte.
-- 🎯 I love .
+- 🎯 BSCS-2
 
 ## 🎮 Hobbies
 - 🖥️ Studying and coding
