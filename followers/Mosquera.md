@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Gabriel!
+# 👋 Hello, I'm Gabriel Mosquera!
 
 Welcome to my GitHub profile! I'm passionate about coding, business ventures, and building innovative solutions.
 
